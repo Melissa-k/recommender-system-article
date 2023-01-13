@@ -1,1 +1,1 @@
-web: python detect_bad_buzz_deeplearning.py --bind 0.0.0.0:${PORT} wsgi
+web: python recommender-system-articles.py --bind 0.0.0.0:${PORT} wsgi
